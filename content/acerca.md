@@ -1,7 +1,7 @@
 ---
 date: '2025-03-09T16:59:40-03:00'
 draft: false
-title: 'Acerca de Concilitórica'
+title: 'Acerca de Conciliatórica'
 ---
 
 *Conciliatórica* es la base filosófica de *Lokapal*, desarrollada a lo largo de más de 20 años de exploración analítica y experiencia práctica. Investiga la interacción entre los aspectos intersticiales e intrínsecos de la realidad, argumentando que la descentralización es esencial para lograr el equilibrio sistémico y la resiliencia.
